@@ -13,7 +13,7 @@ Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), 
       </td>
       <td>
         <p align="center"><b>Seleção</b></p>
-        <img src="./screenshots/img1.png" width="200" alt="Seleção">
+        <img src="./screenshots/img1.png" width="200" alt="Seleção de Lado">
       </td>
       <td>
         <p align="center"><b>Resultado: Cara</b></p>
@@ -27,11 +27,11 @@ Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), 
     <tr>
       <td>
         <p align="center"><b>Sorteio</b></p>
-        <img src="./screenshots/img4.png" width="200" alt="Processo">
+        <img src="./screenshots/img4.png" width="200" alt="Processo de Sorteio">
       </td>
       <td>
         <p align="center"><b>Resultado: Coroa</b></p>
-        <img src="./screenshots/img5.png" width="200" alt="Coroa">
+        <img src="./screenshots/img5.png" width="200" alt="Coroa sorteada">
       </td>
       <td>
         <p align="center"><b>Vitória: Coroa</b></p>
@@ -39,7 +39,7 @@ Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), 
       </td>
       <td>
         <p align="center"><b>Estatísticas</b></p>
-        <img src="./screenshots/img7.png" width="200" alt="Placar">
+        <img src="./screenshots/img7.png" width="200" alt="Placar e Gráfico">
       </td>
     </tr>
   </table>
