@@ -1,4 +1,51 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🪙 App Cara ou Coroa
+
+Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), criado para praticar lógica de sorteio, gerenciamento de estados e estilização moderna.
+
+## 📱 Screenshots do Projeto
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <p align="center"><b>Menu Inicial</b></p>
+        <img src="./img.png" width="200" alt="Tela Inicial">
+      </td>
+      <td>
+        <p align="center"><b>Escolha</b></p>
+        <img src="./img1.png" width="200" alt="Seleção">
+      </td>
+      <td>
+        <p align="center"><b>Resultado: Cara</b></p>
+        <img src="./img2.png" width="200" alt="Vitória Cara">
+      </td>
+      <td>
+        <p align="center"><b>Derrota</b></p>
+        <img src="./img3.png" width="200" alt="Máquina venceu">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>Sorteio</b></p>
+        <img src="./img4.png" width="200" alt="Processo">
+      </td>
+      <td>
+        <p align="center"><b>Resultado: Coroa</b></p>
+        <img src="./img5.png" width="200" alt="Coroa">
+      </td>
+      <td>
+        <p align="center"><b>Vitória: Coroa</b></p>
+        <img src="./img6.png" width="200" alt="Acerto Coroa">
+      </td>
+      <td>
+        <p align="center"><b>Estatísticas</b></p>
+        <img src="./img7.png" width="200" alt="Placar">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 # Getting Started
 
@@ -7,16 +54,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
-
-To start the Metro dev server, run the following command from the root of your React Native project:
-
-```sh
-# Using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
+... (o restante do seu texto original continua aqui)
 
 ## Step 2: Build and run your app
 
