@@ -9,37 +9,37 @@ Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), 
     <tr>
       <td>
         <p align="center"><b>Menu Inicial</b></p>
-        <img src="./img.png" width="200" alt="Tela Inicial">
+        <img src="./screenshots/img.png" width="200" alt="Tela Inicial">
       </td>
       <td>
-        <p align="center"><b>Escolha</b></p>
-        <img src="./img1.png" width="200" alt="Seleção">
+        <p align="center"><b>Seleção</b></p>
+        <img src="./screenshots/img1.png" width="200" alt="Seleção">
       </td>
       <td>
         <p align="center"><b>Resultado: Cara</b></p>
-        <img src="./img2.png" width="200" alt="Vitória Cara">
+        <img src="./screenshots/img2.png" width="200" alt="Vitória Cara">
       </td>
       <td>
         <p align="center"><b>Derrota</b></p>
-        <img src="./img3.png" width="200" alt="Máquina venceu">
+        <img src="./screenshots/img3.png" width="200" alt="Máquina venceu">
       </td>
     </tr>
     <tr>
       <td>
         <p align="center"><b>Sorteio</b></p>
-        <img src="./img4.png" width="200" alt="Processo">
+        <img src="./screenshots/img4.png" width="200" alt="Processo">
       </td>
       <td>
         <p align="center"><b>Resultado: Coroa</b></p>
-        <img src="./img5.png" width="200" alt="Coroa">
+        <img src="./screenshots/img5.png" width="200" alt="Coroa">
       </td>
       <td>
         <p align="center"><b>Vitória: Coroa</b></p>
-        <img src="./img6.png" width="200" alt="Acerto Coroa">
+        <img src="./screenshots/img6.png" width="200" alt="Acerto Coroa">
       </td>
       <td>
         <p align="center"><b>Estatísticas</b></p>
-        <img src="./img7.png" width="200" alt="Placar">
+        <img src="./screenshots/img7.png" width="200" alt="Placar">
       </td>
     </tr>
   </table>
